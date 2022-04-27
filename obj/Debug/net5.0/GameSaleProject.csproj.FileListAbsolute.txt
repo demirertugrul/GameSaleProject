@@ -1,0 +1,16 @@
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\bin\Debug\net5.0\GameSaleProject.exe
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\bin\Debug\net5.0\GameSaleProject.deps.json
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\bin\Debug\net5.0\GameSaleProject.runtimeconfig.json
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\bin\Debug\net5.0\GameSaleProject.runtimeconfig.dev.json
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\bin\Debug\net5.0\GameSaleProject.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\bin\Debug\net5.0\GameSaleProject.pdb
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.csproj.AssemblyReference.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.AssemblyInfoInputs.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.AssemblyInfo.cs
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.csproj.CoreCompileInputs.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\ref\GameSaleProject.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.pdb
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\GameSaleProject.genruntimeconfig.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\GameSaleProject\obj\Debug\net5.0\refint\GameSaleProject.dll

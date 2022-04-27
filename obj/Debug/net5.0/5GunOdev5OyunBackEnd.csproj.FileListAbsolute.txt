@@ -1,0 +1,16 @@
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\5GunOdev5OyunBackEnd.exe
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\5GunOdev5OyunBackEnd.deps.json
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\5GunOdev5OyunBackEnd.runtimeconfig.json
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\5GunOdev5OyunBackEnd.runtimeconfig.dev.json
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\5GunOdev5OyunBackEnd.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\ref\5GunOdev5OyunBackEnd.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\bin\Debug\net5.0\5GunOdev5OyunBackEnd.pdb
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.csproj.AssemblyReference.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.AssemblyInfoInputs.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.AssemblyInfo.cs
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.csproj.CoreCompileInputs.cache
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\ref\5GunOdev5OyunBackEnd.dll
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.pdb
+D:\Lesson\Tech_Projects\Dev_Project\c#\Workshops\5GunOdev5OyunBackEnd\obj\Debug\net5.0\5GunOdev5OyunBackEnd.genruntimeconfig.cache
